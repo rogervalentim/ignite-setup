@@ -8,6 +8,12 @@
 
 <p>Para usar o Projeto segue o passo a passo abaixo:</p>
 
+<p>Clonar o repositório:</p>
+
+```
+https://github.com/rogervalentim/ignite-setup.git
+``` 
+
 <h1>💻 Backend</h1>
 
 ```
