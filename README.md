@@ -8,6 +8,7 @@
 
 <p>Para usar o Projeto segue o passo a passo abaixo:</p>
 
+<h1>Git Clone</h1>
 <p>Clonar o repositório:</p>
 
 ```
