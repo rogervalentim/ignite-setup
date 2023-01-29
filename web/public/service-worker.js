@@ -1,9 +1,9 @@
-self.addEventListener('push', function (event) {
-    const body = event.data?.text() ?? ''
-
+self.addEventListener("push", function (event) {
+    const body = event.data?.text() ?? "";
+  
     event.waitUntil(
-        self.registration.showNotification('Habits', {
-            body,
-        })
-    )
-})
+      self.registration.showNotification("Habit", {
+        body,
+      })
+    );
+  });
