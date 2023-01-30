@@ -53,6 +53,8 @@ npm install
 npx expo start
 ```
 
+<h1><a href="">Clique aqui e veja em breve</a></h1>
+
 ### 🚧 Ajustes e melhorias
 
 o projeto ainda vai ter alguns ajustes , voltado para o design e feedbacks.
